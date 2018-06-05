@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-jordy",
   "version": "1.1.0",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Create react app according to Jordy",
   "repository": "facebook/create-react-app",
   "license": "MIT",
   "engines": {
